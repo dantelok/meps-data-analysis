@@ -1,5 +1,6 @@
 # Introduction
 * This code is for clover health technical interview, working on medical data analysis and predictions.
+* It is also recorded for me to review my work in the future and see how did I improve my skills.
 
 # Procedure
 
